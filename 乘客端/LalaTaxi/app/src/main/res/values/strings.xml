@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LalaTaxi</string>
+    <string name="laladache">啦啦打车</string>
+    <string name="phone_number">手机号</string>
+    <string name="security_code">验证码</string>
+    <string name="get_security_code">获取验证码</string>
+    <string name="login">登录</string>
+    <string name="start_port">出发地</string>
+    <string name="end_port">目的地</string>
+    <string name="search_route">查看路线</string>
+    <string name="order">下单</string>
+</resources>
