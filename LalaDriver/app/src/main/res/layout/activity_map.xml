@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.baidu.mapapi.map.MapView
+    android:id="@+id/baidumap"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</com.baidu.mapapi.map.MapView>
+    <Button
+        android:id="@+id/btn_receive"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        style="@style/Custom_Button"
+        android:text="@string/receive"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="20dp"/>
+</FrameLayout>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="baidumapapi_base_v3_6_1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_base_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_cloud_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_map_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_radar_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_search_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/baidumapapi_util_v3_6_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/com/texiservlet/libs/BaiduMap/locSDK_6.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
